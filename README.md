@@ -27,10 +27,10 @@ Using transactional data from retail store to
     </ul>
   </li>
   <li>
-    Find Actionable Insight
+    Find Actionable Insights
     <ul>
     <li>
-      Analyze whether discount coupon has an effect on sales
+      Analyze whether discount coupons have an effect on sales
     </li>
     <li>
       Suggest some promotion packages based on which goods customers like to buy together
